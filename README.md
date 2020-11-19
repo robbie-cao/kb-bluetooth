@@ -1,2 +1,3 @@
-# kb-bluetooth
+# Bluetooth KB & BKM
+
 Bluetooth Knowledge Base and Best Known Method ...
